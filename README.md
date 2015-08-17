@@ -1,2 +1,2 @@
 # social-plattform
-super awesome stuffh
+super awesome stuff
